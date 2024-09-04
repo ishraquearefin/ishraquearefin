@@ -68,7 +68,7 @@ I am currently working as a Software Engineer at ADN DigiNet Limited, where I am
 <!-- [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent) -->
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ishraquearefin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Arefin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishraquearefin&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ishraquearefin&show_icons=true&include_all_commits=true&theme=buefy" alt="Arefin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishraquearefin&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
