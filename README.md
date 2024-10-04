@@ -1,4 +1,4 @@
-### Hi there, I'm [Ishraque Arefin Rafi](https://ishraquearefin.github.io/Portfolio/) 👋
+### Hi there, I'm [Ishraque Arefin Rafi](https://ishraquearefin.github.io/academic-portfolio/) 👋
 
 I am currently working as a Software Engineer at ADN DigiNet Limited, where I am leveraging my experience in Java and Spring Boot to design and implement innovative software solutions. Alongside my professional work, I am actively engaged in independent research, concentrating on machine learning, artificial intelligence, and natural language processing. I hold a B.Sc. in Computer Science and Engineering from BRAC University, where I published a paper titled 'Predicting effectiveness of marketing through analyzing emotional context in advertisement using deep learning'.
 
